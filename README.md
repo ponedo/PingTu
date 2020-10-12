@@ -1,3 +1,2 @@
 # PingTu
-Java course design
-一个拼图小游戏
+一个用Java写的拼图小游戏
